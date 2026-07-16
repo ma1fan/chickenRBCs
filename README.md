@@ -1,2 +1,4 @@
 # chickenRBCs
-associated files with RBC paper
+Associated files with the RBC paper
+
+Software versions: ###
